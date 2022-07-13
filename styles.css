@@ -1,4 +1,7 @@
-body {
-    margin: 0;
-    background-color: pink;
+a {
+    color: red;
+}
+
+h1 {
+    color: blue;
 }
